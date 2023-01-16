@@ -19,7 +19,7 @@
     <li>Write commands:
     <ol type="a" >
       <li><code>git init</code></li>
-      <li><code>git pull https://github.com/szariii/react_native_alarms.git</code></li>
+      <li><code>git pull https://github.com/szariii/react_native_map.git</code></li>
       <li><code>npm install</code></li>
       <li><code>npm start</code></li>
     </ol>
